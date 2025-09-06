@@ -25,10 +25,9 @@ personal-finance-tracker/
 └─ .gitignore              # Ignored files (pycache, env, etc.)
 
 
-
----
 ```
 
+---
 ## ⚙️ Installation
 
 1. **Clone the repository**  
@@ -38,11 +37,12 @@ personal-finance-tracker/
 -> pip install -r requirements.txt
 -> python main.py
 
+
+```
 ---
-```
-```
 # 🖥️ How to Use
 
+```
 When you run the program, you’ll see a menu like this:
 
 Menu:
