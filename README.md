@@ -28,6 +28,7 @@ personal-finance-tracker/
 
 ---
 
+
 ## ⚙️ Installation
 
 1. **Clone the repository**  
@@ -36,6 +37,8 @@ personal-finance-tracker/
     cd personal-finance-tracker
 -> pip install -r requirements.txt
 -> python main.py
+
+---
 
 🖥️ How to Use
 
