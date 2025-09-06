@@ -40,8 +40,8 @@ personal-finance-tracker/
 
 ---
 ```
-
-🖥️ How to Use
+```
+# 🖥️ How to Use
 
 When you run the program, you’ll see a menu like this:
 
@@ -63,9 +63,9 @@ Add amounts, categories, and see your balance update in real-time.
 Expenses exceeding your current balance are automatically prevented.
 
 Categories outside Food, Salary, Rent are automatically labeled Uncategorized.
+```
 
-
-🔧 Technology Stack
+# 🔧 Technology Stack
 
 Python 3.x
 
@@ -73,7 +73,7 @@ JSON for data storage
 
 Decimal module for precise financial calculations
 
-💡 How It Works
+# 💡 How It Works
 
 All transactions are stored in transactions.json.
 
@@ -85,7 +85,7 @@ Expense entries cannot exceed the available balance.
 
 Categories outside predefined ones are automatically labeled as Uncategorized.
 
-📈 Future Enhancements
+# 📈 Future Enhancements
 
 Add visual graphs for income vs expenses.
 
@@ -95,7 +95,7 @@ Add CSV import/export functionality.
 
 Build a GUI version using Tkinter or PyQt.
 
-⚠️ Notes
+# ⚠️ Notes
 
 Ensure Python 3.x is installed on your machine.
 
@@ -103,10 +103,7 @@ The JSON file (transactions.json) is created automatically if it doesn’t exist
 
 This is a CLI-based project, suitable for learning Python and building a portfolio.
 
-🖼 Screenshots / GIFs
 
-(Optional: Add screenshots of your terminal running the tracker or expense summary)
-
-📜 License
+# 📜 License
 
 MIT License © 2025 <MD.Sayed Ahmed Sami>
