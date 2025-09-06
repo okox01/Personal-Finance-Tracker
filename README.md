@@ -6,23 +6,24 @@ A simple and intuitive **Python CLI tool** to track your income and expenses, he
 
 ## 📌 Features
 
-- ✅ Add **Income** and **Expenses**
-- ✅ View **current balance** at any time
-- ✅ Categorized **Expense Summary** (Food, Salary, Rent, Uncategorized)
-- ✅ **Delete** individual transactions or clear all transactions
-- ✅ Data is **stored in a JSON file** for persistence
+- **Add Income and Expenses**  
+- **View current balance** at any time  
+- **Categorized Expense Summary** (Food, Salary, Rent, Uncategorized)  
+- **Delete** individual transactions or clear all transactions  
+- **Data persistence** using JSON  
 
 ---
 
 ## 🗂 Project Structure
 
+```text
 personal-finance-tracker/
-│
-├─ transactions.json # JSON file storing transaction data
-├─ main.py # Main Python program
-├─ requirements.txt # Dependencies (if any)
-├─ README.md # Project documentation
-└─ .gitignore # Ignored files (pycache, env, etc.)
+├─ transactions.json       # JSON file storing transaction data
+├─ main.py                 # Main Python program
+├─ requirements.txt        # Dependencies (if any)
+├─ README.md               # Project documentation
+└─ .gitignore              # Ignored files (pycache, env, etc.)
+
 
 
 ---
