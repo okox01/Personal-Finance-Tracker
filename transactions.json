@@ -1,0 +1,102 @@
+[
+    {
+        "type": "Income",
+        "amount": "5000",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "50.75",
+        "category": "Food"
+    },
+    {
+        "type": "Expense",
+        "amount": "1200",
+        "category": "Rent"
+    },
+    {
+        "type": "Income",
+        "amount": "200",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "30.5",
+        "category": "Food"
+    },
+    {
+        "type": "Income",
+        "amount": "1500",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "75",
+        "category": "Food"
+    },
+    {
+        "type": "Expense",
+        "amount": "400",
+        "category": "Rent"
+    },
+    {
+        "type": "Income",
+        "amount": "300",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "20",
+        "category": "Food"
+    },
+    {
+        "type": "Expense",
+        "amount": "100",
+        "category": "Rent"
+    },
+    {
+        "type": "Income",
+        "amount": "450",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "60",
+        "category": "Food"
+    },
+    {
+        "type": "Expense",
+        "amount": "500",
+        "category": "Rent"
+    },
+    {
+        "type": "Income",
+        "amount": "600",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "25",
+        "category": "Food"
+    },
+    {
+        "type": "Expense",
+        "amount": "300",
+        "category": "Rent"
+    },
+    {
+        "type": "Income",
+        "amount": "800",
+        "category": "Salary"
+    },
+    {
+        "type": "Expense",
+        "amount": "40",
+        "category": "Food"
+    },
+    {
+        "type": "Expense",
+        "amount": "250",
+        "category": "Rent"
+    }
+]
