@@ -27,7 +27,7 @@ personal-finance-tracker/
 
 
 ---
-
+```
 
 ## ⚙️ Installation
 
@@ -39,6 +39,7 @@ personal-finance-tracker/
 -> python main.py
 
 ---
+```
 
 🖥️ How to Use
 
