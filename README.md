@@ -42,7 +42,7 @@ personal-finance-tracker/
 ---
 # 🖥️ How to Use
 
-```
+
 When you run the program, you’ll see a menu like this:
 
 Menu:
@@ -63,7 +63,7 @@ Add amounts, categories, and see your balance update in real-time.
 Expenses exceeding your current balance are automatically prevented.
 
 Categories outside Food, Salary, Rent are automatically labeled Uncategorized.
-```
+
 
 # 🔧 Technology Stack
 
